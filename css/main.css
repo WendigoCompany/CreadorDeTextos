@@ -1,0 +1,82 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+
+table:nth-child(1) {
+    width: 50%;
+}
+
+table:nth-child(2) {
+    width: 100%;
+}
+
+
+/* table:nth-child(1) tr td:nth-child(1){
+    width: 60%;
+    
+}
+
+table:nth-child(1) tr td:nth-child(2){
+    width: 40%;
+}
+ */
+
+
+p {
+    color: #ffffff;
+}
+
+.options {
+    margin: 0% 30%;
+}
+
+
+table:nth-child(2) tr td:nth-child(1) {
+    width: 60%;
+
+}
+
+table:nth-child(2) tr td:nth-child(2) {
+    width: 40%;
+}
+
+textarea {
+    margin: 1% 2%;
+    width: 90%;
+    height: 25vh;
+    background-color: transparent;
+    color: white;
+}
+
+
+
+
+
+.chbox {
+    width: 20px;
+    height: 20px;
+    cursor: pointer;
+}
+
+label {
+    color: white;
+    text-align: center;
+}
+
+input[name="snum"] {
+    width: 75px;
+    
+  }
+
+.options-table {
+    width: 100% !important;
+    text-align: left;
+}
